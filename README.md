@@ -1,18 +1,10 @@
-<p align="center">
-  <br /><img
-    width="600"
-    src="logo.png"
-    alt="Senko – OTA Updater"
-  />
-</p>
-
 ---
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
 ## This Repo is a Fork Of the Original. I publish package to this repo.
-
+##Original Repo : https://github.com/RangerDigital/senko
 
 
 Senko is the simplest **Over The Air** updater solution for your **Micropython** projects based on **ESP8266** and **ESP32**.
